@@ -19,6 +19,7 @@ The Huffman tree is constructed using a greedy approach by repeatedly combining 
 
 ---
 
+
 # Algorithm
 
 ## Step 1:
@@ -37,7 +38,8 @@ Generate Huffman codes by traversing the Huffman tree.
 Display the characters along with their Huffman codes.
 
 ---
-
+## Name : SHADHANASHREE S V  
+## Register Number : 212223230202  
 # Program
 
 ```python
