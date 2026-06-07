@@ -123,10 +123,9 @@ Enter the string: "huffman coding"
 
 # Output
 
-```python
+
 <img width="247" height="327" alt="image" src="https://github.com/user-attachments/assets/7f5c6f8c-7cf9-4962-b947-2c7b06fbfaec" />
 
-```
 
 ---
 
